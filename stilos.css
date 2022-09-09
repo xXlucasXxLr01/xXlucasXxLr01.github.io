@@ -1,25 +1,18 @@
-<!DOCTYPE html>
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+   
 
-<html lang="es">
-
-<head>
-    <meta charset="utf-8">
-    <title>presentacion</title>
-</head>
-
+}
+section h2 {font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
     
-<body>
-    <header>
-       
-    </header>
-<h1>Hola soy Lucas Alvares
-</h1>  
-<hr> 
-<u><h2>Un Poco de mi </h2></u>
-<p>Tengo 35 años, actualmente curso la carrera de Tecnico universitario de en Programacion en la Universidad Tecnologica  Nacional sede la rioja.
-</p>
-
-<hr>
-<footer></footer>
-</body>
-</html>
+}
+    section p{font-size: 25px;}
+body{
+    text-align: center;
+    display: block,
+}
+div{background-color: cadetblue;}
