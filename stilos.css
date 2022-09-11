@@ -8,15 +8,19 @@ h1 {
 section h2 {font-size: 50px;
     font-family: sans-serif;
     font-weight: bold;
-    
+    color: rgb(27, 28, 28);
 }
     section p{font-size: 25px;
+        color: black;
         }
     section  {box-shadow: 0 0 0 50px;
-    color: whitesmoke;}
+    color: rgb(10, 4, 91);}
 body{
     text-align: center;
     display: block,
     
 }
-div{background-color: cadetblue;}
+div{background-color: rgb(88, 99, 124);}
+
+
+
